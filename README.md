@@ -1,4 +1,4 @@
-# Actix-web REST API with JWT
+# Actix-web REST API with JWT (WIP)
 
 
 A simple CRUD backend app using Actix-web, Diesel and JWT
